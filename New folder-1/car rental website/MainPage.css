@@ -1,0 +1,104 @@
+body{
+  background-image: url('akcar5.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,h2{
+    text-align-last: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color:rgb(66, 3, 168);
+    padding: 8px;
+  }
+  section{
+   color: rgb(255, 55, 55);
+  }
+  container{
+    grid-gap:50px 50px;
+  }
+  
+  .navbar {
+     width: 100%;
+   background-color:rgb(21, 116, 224);
+   color:white;
+   display: block;
+   list-style-type: none;
+   overflow: auto;
+   margin: 0px;
+   padding: 0px;
+  }
+  
+  .navbar li {
+     
+      text-align: center;
+     float: left;
+   display: inline;
+   font-size: 26px;
+   text-decoration: none;
+   font-weight: bolder;
+   width:16%;
+   padding: 18px;
+  }
+  
+  .navbar a:hover {
+  background-color: rgb(176, 238, 31);
+  padding: 8px;
+  
+  }
+  h3{
+    background-size: 50px;
+    text-align-last: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(131, 223, 12);
+    padding: 8px;
+  }
+  h4{
+    font-size: 36px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+  }
+  h5{
+    font-size: 28px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+  }
+  .navbar li {
+      display: inline-block; padding:10px;
+      font-size:20px; 
+      font-family:raleway
+  }
+p{
+  color: beige;
+  font-size: 28px;
+}
+
+  .searchbtn {
+    font-size: 26px;
+    text-align: center;
+    background-color: rgb(79, 193, 238);
+    padding: 8px;
+  }
+  .searchbtn:hover {
+   
+   font-size: 26px;
+    text-align: center;
+    padding: 8px;
+    background-color: #1fe629;
+  }
+  
+  .footer-basic {
+    padding-bottom:10px;
+    color:#4b4c4d;
+    text-align:center;
+    font-size: small;
+  }
+  
+  
